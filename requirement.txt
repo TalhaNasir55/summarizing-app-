@@ -1,9 +1,6 @@
-
-pandas
-
-torch
-pipeline
 transformers==4.15.0
 streamlit==1.10.0
+pandas
+torch
 
 
